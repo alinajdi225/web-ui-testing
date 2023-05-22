@@ -1,0 +1,20 @@
+{
+  "name": "areeba-merchants-demo-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Najdi",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^113.0.0",
+    "node": "^20.1.0",
+    "puppeteer": "^20.1.2",
+    "selenium-webdriver": "^4.9.1",
+    "webdriverio": "^8.10.1",
+    "xlsx": "^0.18.5"
+  }
+}
