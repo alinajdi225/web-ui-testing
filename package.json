@@ -1,0 +1,16 @@
+{
+  "name": "web-ui-testing",
+  "version": "1.0.0",
+  "description": "Selenium WebDriver UI automation demo for portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node demo.js"
+  },
+  "author": "Ali Najdi",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.46.0",
+    "xlsx": "^0.18.5"
+  }
+}
